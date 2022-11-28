@@ -12,10 +12,6 @@
         "resolveJsonModule": true,
         "skipDefaultLibCheck": true,
         "skipLibCheck": true,
-        "jsx": "preserve",
-        "types": [
-            "node",
-        ],
     },
     "exclude": [
         "**/dist/**",
